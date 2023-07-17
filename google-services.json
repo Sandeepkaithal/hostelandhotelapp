@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "568714042161",
+    "firebase_url": "https://hostelandhotel-ee75c-default-rtdb.firebaseio.com",
+    "project_id": "hostelandhotel-ee75c",
+    "storage_bucket": "hostelandhotel-ee75c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568714042161:android:c6b4df2c1cf0ebdbf1ae10",
+        "android_client_info": {
+          "package_name": "com.sandeep_kaithal.hostelandhotelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568714042161-4ti2e0kpiatnas2uvpvcrij2khenvis4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandeep_kaithal.hostelandhotelapp",
+            "certificate_hash": "e28bc4921d23107056d23a57a5bb2e2e70d62a89"
+          }
+        },
+        {
+          "client_id": "568714042161-5dhpo6bsv668pg6j7e04rmq19lmf9k8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdsgeYnABs6Vj0RWE2JrpyizhRTtsySTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568714042161-5a1pu13fs3o6p7vod0cfat6h53gtnut6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
